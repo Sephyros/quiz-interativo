@@ -1,5 +1,5 @@
 const form = document.querySelector(".quiz-form");
-const scoreboard = document.querySelector('.score');
+const scoreboard = document.querySelector(".score");
 const correctAnswers = ["A", "C", "B", "D", "B", "A", "E", "C", "D", "E"];
 
 form.addEventListener("submit", (event) => {
