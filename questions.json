@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "category": "Portal",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "The cake is a lie?",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Castlevania: Symphony of The Night",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Qual é o verdadeiro nome de Alucard no jogo Castlevania: Symphony of the Night?",
+      "correct_answer": "Adrian Farenheights Tepes",
+      "incorrect_answers": [
+        "Richter Belmont",
+        "Mathias Cronqvist",
+        "Reinhardt Schneider",
+        "Vlad Ţepeş"
+      ]
+    }
+  ]
+}
