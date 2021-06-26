@@ -35,4 +35,5 @@ form.addEventListener("submit", (event) => {
     }
     delay++;
   }, 30);
+  scrollTo(top);
 });
